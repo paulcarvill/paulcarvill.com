@@ -401,3 +401,7 @@ p {
   line-height: 2em;
   margin-bottom: 2em;
   font-size: 1.25em; }
+  @media screen and (max-width: 39.9375em) {
+    /* line 35, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
+    p {
+      line-height: 1.425; } }
