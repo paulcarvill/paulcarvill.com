@@ -37,3 +37,7 @@ ol {
 	  @include span-columns(1);
 	}
 }
+
+img {
+  margin-bottom: $base-font-size * 2;
+}

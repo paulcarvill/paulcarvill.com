@@ -2,6 +2,9 @@ body {
 	font-family: "Monosten F", Courier, monospace;
 	font-weight: 200;
 	font-style: normal;
+	@include media($small-screen-only) {
+		font-size: $base-font-size*0.8;
+	}
 }
 
 h1,
@@ -10,7 +13,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Din Monospace Medium", Monaco, monospace;
+  font-family: "Din Monospace Medium", Courier, monospace;
   font-weight: 500;
   font-style:normal;
 }
@@ -28,8 +31,15 @@ h3, h4, h5 {
 	font-size: $base-font-size * 1.25;
 }
 
+h4 {
+	font-weight: bold;
+}
+
 p {
 	line-height: $base-font-size * 2;
 	margin-bottom: $base-font-size * 2;
+	@include media($small-screen-only) {
+		line-height: $base-line-height*0.9;
+	}
 }
 
