@@ -1,0 +1,48 @@
+---
+title: Yearnote 2014
+date: 2015-01-11
+---
+
+<p>I was inspired by reading <a href="http://www.iamdanw.com/wrote/yearnote-2014/">Dan W's</a> and <a href="http://alicebartlett.co.uk/blog/yearnotes-2014">Alice Bartlett's</a> year-summarizing posts, so I wrote this one. I don't really know either <a href="https://twitter.com/iamdanw">Dan W</a> or <a href="https://twitter.com/alicebartlett">Alice Bartlett</a> but we work in the same field and their Twitters are always interesting, containing as they do tales of container ship trips and tampon clubs etc.
+
+<p>I don't think I had an especially eventful 2014, so this definitely isn't trumpet-blowing. But it's nice to be able to look back on the times when I managed to put some effort into non-worky things. Things I'd definitely like to do more of this year.</p>
+
+<h4>Heineken</h4>
+<p>Let's start with work-work. Most of my year at R/GA was spent launching <a href="http://openyourcity.heineken.com/">Open Your City</a>, a global advertising campaign for Heineken. The work included a mobile-optimised website and intelligent Twitter-bot which supplied realtime going-out recommendations based on your location (plus the small matter of one billion promotional codes on specially-printed bottle labels...). It's a really nice service, with a decent amount of algorithmic magic going on in the background to make sure the tips are really very useful. Heineken themselves got a lot of mileage out of it, being named The Drum's most-creative brand of 2014. And while launching it I got to have some fun attending the press junkets: sat next to jacuzzis talking to journalists on a Soho hotel rooftop. We got some good coverage from the trade press and it was part of our winning submission for <a href="http://www.campaignlive.co.uk/news/1326025/">Campaign Magazine's Digital Innovation Agency of the Year</a> award.</p>
+
+<h4>Other work</h4>
+<p>I spent about two months planning a huge physical computing campaign for an enormo-client, which ended up being postponed, cancelled, reinstated, reimagined and reworked entirely. It may by now have actually transmogrified into an authentic brand engagment film experience being shot in an exotic location nowehre near a computer of any kind. I work in an advertising agency. These things happen.</p>
+
+<p>The remainder of the work year has been spent in discovery mode for another super-project, the first evidence of which you should start to see in October this year. Big ideas require big calendars. See you in October!</p>
+
+<h4>Stemettes</h4>
+<p>I was lucky enough to work with Anne-Marie Imafidon of <a href="http://www.stemettes.org/">Stemettes</a>, a project she runs which is aimed at inspiring the next generation of women into Science, Technology, Engineering and Mathematics jobs and learning. Anne-Marie describes herself as “a woman on a mission”, which is entirely accurate, and you can't really fail to be inspired by her as she steps off a plane direct from the <a href="http://gracehopper.org/">Grace Hopper Celebration of Women in Computing</a> conference in Phoenix, Arizona and walks straight into the day-long event we'd organised for young girls we'd organised, brandishing Google Cardboard kits and banging on about how Satya Nadella was stitched up.</p>
+
+<p>We had a amazing group of girls in years 9 and 10 (age 13 and 14) from two schools in Essex. With great help from a number of my colleagues, we took the girls through what we do at R/GA and explained how technology fits into our work. Then we showed them some simple tools for prototyping, as well as the basics of building web pages. Then we challenged them with a real brief and gave them the afternoon to brainstorm, validate their ideas, put together a pitch and create an app or website to show their concept.</p>
+
+<p>I was absolutely amazed by the quality of the girls' ideas, and the speed at which they worked. We talk a lot about millenials and digital natives, but to have them standing in front of you confidently pushing ideas that wouldn't look out of place on one of our meeting room walls, that's a massive early-warning klaxon right there.</p>
+
+<p>It was a real privilege to be work with Stemettes and all the girls, and I hope they found it as rewarding as I did. I also had Youtubers girlsplained to me, so now I know. We're planning on doing more STEM days this year, and also some more focused and longer-term mentoring.</p>
+
+<h4>Code Club</h4>
+<p>I started a <a href="https://www.codeclub.org.uk/">Code Club</a> at George Tomlinson School in Leytonstone. The idea is to teach computational thinking to year 5 and 6 students (9 and 10 year-olds). In practice it means we use approachable programming tools to create programs the students are interested in — games, apps, animations and movies. It is incredibly rewarding, and I highly recommend you think about running a club if you have even basic programming skills. At our club the students use Sketch, which is a drag-and-drop web interface (the underlying language is based on Smalltalk). Students can an progress at their own pace, and can even carry on at home or elsewhere. How far they go in each session is totally up to them, and you are there to facilitate their learning.</p>
+
+<p>Every session also has a teacher present. This is very reassuring, as the practicality of managing 15 students bouncing off the walls with energy and questions is not something I had really considered before I signed up. One thing I realised immediately was how bloody tiring teaching is, and I was only doing it for a few hours a week, with only half a class! The other thing I realised — and thinking back to my own school days the irony involved apalls me even now — is the importance of preparation! I usually stayed up extra late the night before a club, trying to anticipate the many curveballs and requests the students were guaranteed to throw my way the next day.</p>
+
+<h4>Convergence</h4>
+<p>I got to work with the lovely people at Village Underground who are organising another edition of the fantastic Convergence festival this year. Music, art and technology. They wanted a website which reflected the aims and culture of the festival, which is focused on the experimental and collaborative nature of music, art and technology. Our relationship started quite randomly after a brief Twitter dialogue between me and <a href="http://twitter.com/vidhii">Vidhi</a>, a music promoter. The resulting work was a collaboration with my regular design partner-in-crime <a href="http://www.s-u-k-i.com">Suki</a>. I can't wait to see Clark and Vessels blow the roof off VU at the <a href="http://convergence-london.com/events/opening-party-clark-vessels">opening party in March!</a></p>
+
+<h4>Shimell and Madden</h4>
+<p>I also got to work with the inspirational and absolutely lovely jewellery design duo of Emma and Luke, who create beautiful handmade jewellery as <a href="http://shimellandmadden.com">Shimell and Madden</a>. Their workshop in Shoreditch is knee-deep in geometric diagrams and scientific research, and every piece I've seen people wearing never fails to elicict comments and compliments. Do check out their work, as every piece has lifetimes of thought and craft put into it.</p>
+
+<p>I worked on the website and ecommerce shop with the talented designer and typographer <a href="http://holmkvist.co.uk">Robert Holmvist</a>. Like any good work it was a true collaboration and learning curve for us all.</p>
+
+<h4>First Things First</h4>
+<p>I did an <a href="http://www.fastcoexist.com/3027510/the-first-things-first-manifesto-pledges-the-tech-industry-to-create-meaningful-work">interview</a> with <a href="https://twitter.com/sydbrownstone">Sydney Brownstone</a> at <a href="http://www.fastcoexist.com">Fast Company</a> about the <a href="http://firstthingsfirst2014.org">First Things First Manifesto</a>. This was a refresh of the earlier First Things first manifestos, each of which had the same aim of rallying the community of creative professionals to put their collective skills to more worthwhile use. I am particularly driven by the acknowledgment of the manifesto that it is the responsibility of members of the creative and technology industries to create positive changes within them. So I spoke out to highlight the need of advertising agencies' to improve our record on diversity and inclusion, especially gender imbalance.</p>
+
+<h4>Also</h4>
+<p>In 2014 I started mentoring 2 developers in R/GA's Bucharest office. Mentoring has a different feel from line-management. It allows us to focus purely on ideas around technology and exploration, which I think is a nice opportunity for us both. I also had a lovely family holiday in Italy, where it turns out that my kids love gelato even more than they love ice cream. I went to Serbia for Resonate, and both the country and the conference were revelations — the friendliest places I've been to in a long time. I'll be heading back this year. I bought a Kindle and read more books in a year than I reckon I did in the previous two put together.</p>
+
+<h4>Next...</h4>
+<p>I think I'm going to write this bit another day...</p>
+
