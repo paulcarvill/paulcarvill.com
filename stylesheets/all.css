@@ -368,47 +368,36 @@ footer {
 
 /* line 1, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
 body {
-  font-family: "Monosten F", Courier, monospace;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 200;
   font-style: normal; }
-  @media screen and (max-width: 39.9375em) {
-    /* line 1, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
-    body {
-      font-size: 0.8em; } }
 
-/* line 10, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
+/* line 7, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: "Din Monospace Medium", Courier, monospace;
+  font-family: 'Source Serif Pro', serif;
   font-weight: 500;
   font-style: normal; }
 
-/* line 21, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
+/* line 18, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
 h1 {
   font-size: 1.25em; }
 
-/* line 25, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
+/* line 22, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
 h2 {
   font-size: 1.5em;
   line-height: 3em; }
 
-/* line 30, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
+/* line 27, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
 h3, h4, h5 {
   font-size: 1.25em; }
 
-/* line 34, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
-h4 {
-  font-weight: bold; }
-
-/* line 38, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
+/* line 35, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
 p {
   line-height: 2em;
-  margin-bottom: 2em; }
-  @media screen and (max-width: 39.9375em) {
-    /* line 38, /Users/paulca/Downloads/pc/source/stylesheets/partials/_type.css.scss */
-    p {
-      line-height: 1.35; } }
+  margin-bottom: 2em;
+  font-size: 1.25em; }
