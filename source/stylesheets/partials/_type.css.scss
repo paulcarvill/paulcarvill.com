@@ -36,5 +36,8 @@ p {
 	line-height: $base-font-size * 2;
 	margin-bottom: $base-font-size * 2;
 	font-size: $base-font-size * 1.25;
+	@include media($small-screen-only) {
+		line-height: $base-line-height*0.95;
+	}
 }
 
