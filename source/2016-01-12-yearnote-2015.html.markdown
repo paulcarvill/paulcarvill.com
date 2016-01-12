@@ -1,0 +1,74 @@
+---
+title: Yearnote 2015
+date: 2016-01-12
+---
+
+<p>What is this...</p>
+
+<h4>R/GA</h4>
+<p>Lorem ipsum dolor sit amet...</p>
+
+<a href="#"><img src="http://placehold.it/700x525" /></a>
+
+<h4>Personal</h4>
+<p>Lorem ipsum...</p>
+
+<a href="#"><img src="/images/solid.jpg" /></a>
+
+<h4>April: Solid Steel</h4>
+<p>Lorem ipsum...</p>
+
+<h4>April stemettes</h4>
+<p>Lorem ipsum...</p>
+
+<a href="#"><img src="/images/footy.jpg" /></a>
+
+<h4>May footy</h4>
+<p>Lorem ipsum dolor...</p>
+
+<a href="#"><img src="/images/juice.jpg" /></a>
+
+<h4>August juice</h4>
+<p>Lorem ipsum dolo...</p>
+
+<h4>December McD</h4>
+<p>Lorem ipsum...</p>
+
+<a href="#"><img src="http://placehold.it/700x525" /></a>
+
+<h4>antipattern</h4>
+<p>Lorem ipsum dolor sit amet...</p>
+
+<a href="#"><img src="/images/IMG_1436.JPG" /></a>
+
+<h4>Google</h4>
+<p>Lorem ipsum dolor sit amet...</p>
+
+<h4>Expeditions</h4>
+<p>Lorem ipsum dolor sit...</p>
+
+<a href="#"><img src="http://placehold.it/700x525" /></a>
+
+<h4>Petra</h4>
+<p>Lorem ipsum...</p>
+
+<a href="#"><img src="http://placehold.it/700x525" /></a>
+
+<h4>Perf arts</h4>
+<p>Lorem ipsum dolor...</p>
+
+<a href="#"><img src="http://placehold.it/700x525" /></a>
+
+<h4>Dec convergence 2016</h4>
+<p>Lorem ipsum dolor...</p>
+
+<h4>Also</h4>
+<p>Bought. Watched. Gigs. Trips.</p>
+
+<h4>Next...</h4>
+<p>Some ideas for things I'd like to continue doing or do more of this year:</p>
+<ul>
+	<li><p>• foo</p></li>
+	<li><p>• bar</p></li>
+</ul>
+
