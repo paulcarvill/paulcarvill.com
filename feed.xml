@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://blog.url.com/2016/01/12/yearnote-2015.html"/>
     <id>http://blog.url.com/2016/01/12/yearnote-2015.html</id>
     <published>2016-01-12T00:00:00+00:00</published>
-    <updated>2016-02-07T21:46:52+00:00</updated>
+    <updated>2016-02-07T21:57:54+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -56,13 +56,13 @@
 &lt;p&gt;This age group understand technology as now being so pervasive that even niche as-yet-unreleased hardware like Oculus Rift is seen by them as an entirely natural, sensible and feasible solution. Stemettes are a great organisation, and I hope we were able to encourage some of the students to consider studying one or more STEM subjects at school and beyond.&lt;/p&gt;
 
 &lt;h4&gt;antipattern&lt;/h4&gt;
-&lt;p&gt;This year &lt;a href="http://www.s-u-k-i.com"&gt;Suki&lt;/a&gt; and I officially formed a design studio and gave it a name: &lt;a href="http://antipattern.co"&gt;antipattern&lt;/a&gt;. Finding a work/life/antipattern balance continues to present a challenge, but it's one we're keen to take on. In 2015 we worked on projects for Ninja Tune, the Association of Independent Music, and an online music startup called Juice VCR. More details of each project are below:&lt;/p&gt;
+&lt;p&gt;In 2015&lt;a href="http://www.s-u-k-i.com"&gt;Suki&lt;/a&gt; and I officially formed a design studio and gave it a name: &lt;a href="http://antipattern.co"&gt;antipattern&lt;/a&gt;. Finding a work/life/antipattern balance continues to present a challenge, but it's one we're keen to take on. Since then we've worked on projects for Ninja Tune, the Association of Independent Music, an online music startup called Juice VCR, and also launched the 3rd year of the Convergence festival. More details of each project are below:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="http://antipattern.co"&gt;&lt;img alt="This is a screenshot of the antipattern website" src="/images/anti.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4&gt;Solid Steel&lt;/h4&gt;
-&lt;p&gt;In April we launched our biggest project to date — a brand new platform for Solid Steel, the longest running mix show in the world, produced in association with Ninja Tune.&lt;/p&gt;
-&lt;p&gt;&lt;a href="#"&gt;&lt;img src="/images/solid.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In April we launched our biggest project to date — a brand new platform for &lt;a href="http://solidsteel.net"&gt;Solid Steel&lt;/a&gt;, the longest running mix show in the world, produced in association with Ninja Tune.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://solidsteel.net"&gt;&lt;img src="/images/solid.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Solid Steel wanted to relaunch their website to celebrate running for 25 years. They also needed to add support for mobile devices, search and filtering functionality and tight integration with Soundcloud.&lt;/p&gt;
 &lt;p&gt;The site is perfectly minimal, totally balanced in form and functionality. Tech details: front-end is Ember, backend is Rails, MySQL on Ubuntu on Digital Ocean. I really enjoyed working with Ember. The development environment and workflow they have produced is extremely productive (once you're past a fairly steep initial learning curve), with local server, optimisation, tests and scaffolding functions all built in.&lt;/p&gt;
 
